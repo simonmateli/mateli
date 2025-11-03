@@ -55,5 +55,4 @@ Files Included
 How to Run the Project
 
 1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/spotify-analysis.git
+https://github.com/simonmateli/mateli.git
